@@ -4,7 +4,7 @@
 public class CodeForTests {
 
     public boolean isPrimeNumber(int n) {
-        if (n == 0 || n == 1) {
+        if (n == 0) {
             return true;
         }
 
